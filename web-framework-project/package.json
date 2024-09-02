@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "buffer": "^5.7.1",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   }
 }
